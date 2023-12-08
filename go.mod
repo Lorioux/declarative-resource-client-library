@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/declarative-resource-client-library
+module github.com/lorioux/declarative-resource-client-library
 
 go 1.19
 
